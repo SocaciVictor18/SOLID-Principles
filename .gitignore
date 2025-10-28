@@ -1,0 +1,27 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Eclipse (optional if some teammates use it)
+.classpath
+.project
+.settings/
+
+# Other temporary files
+*.swp
+*.tmp
+*.bak
+*.~*
